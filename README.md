@@ -13,8 +13,5 @@ Analyze employee attrition trends and workforce metrics.
 - Younger employees showed higher churn
 
 ## Dashboard Preview
-(insert screenshot)
 
-## Files
-- HR_Analytics_Attrition_Dashboard.pbix
-
+![Dashboard Preview](dashboard-preview.png)
