@@ -12,6 +12,12 @@ Analyze employee attrition trends and workforce metrics.
 - Sales department had highest turnover
 - Younger employees showed higher churn
 
+## Files Included
+- PBIX dashboard
+- Scrrenshots
+- Dataset
+- PDF export
+
 ## Dashboard Preview
 
 ![Dashboard Preview](dashboard-preview.png)
