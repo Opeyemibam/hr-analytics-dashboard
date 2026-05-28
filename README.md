@@ -17,6 +17,7 @@ Analyze employee attrition trends and workforce metrics.
 - Screenshots
 - Dataset
 - PDF export
+- Google Collab work analysis
 
 ## Dashboard Preview
 
