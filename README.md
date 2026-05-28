@@ -14,7 +14,7 @@ Analyze employee attrition trends and workforce metrics.
 
 ## Files Included
 - PBIX dashboard
-- Scrrenshots
+- Screenshots
 - Dataset
 - PDF export
 
