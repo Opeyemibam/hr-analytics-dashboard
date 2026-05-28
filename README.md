@@ -17,7 +17,10 @@ Analyze employee attrition trends and workforce metrics.
 - Screenshots
 - Dataset
 - PDF export
-- Google Collab work analysis
+- Google Collab Notebook
+
+## Google Colab Notebook
+[Open in Google Colab](https://colab.research.google.com/drive/1fmlSGRFtZ8UxNQIASHoLGpTY70yOC3Y-?usp=sharing)
 
 ## Dashboard Preview
 
